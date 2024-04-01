@@ -10,6 +10,7 @@ print(s[-18])   # 첫번째 글자
 print(s[3:7])
 print(s[3:-10])
 print(s[-10:-7])
+print("----")
 print(s[3:2])   # 못 구함
 print(s[30:])   # 30번부터 끝까지
 print(s[-7:])   # -7부터 뒤까지

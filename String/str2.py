@@ -13,7 +13,7 @@ h.replace("Happy", "Funny")     # 문자열 대체하기
 
 print(h.find("ap"))        # h 문자열에서 'ap'를 왼쪽부터 찾기, 3
 
-print(h.rfind("a"))       # h 문자열에서 'ap'를 오른쪽부터 찾기, 13
+print(h.rfind("a"))       # h 문자열에서 'a'를 오른쪽부터 찾기, 13
 
 print(h.find("zoo"))       # 찾지 못하면 -1을 리턴
 
