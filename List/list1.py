@@ -1,7 +1,7 @@
 l = []      # 빈 리스트
 player = ["Messi", 10, True]
 
-# list() : list로 변환
+# List() : list로 변환
 # 1. 리스트 생성
 print(list("Happy"))    # 문자열을 리스트로 ['H', 'a', 'p', 'p', 'y']
 print(list((122, 323)))   # 튜플을 리스트로 [122, 323]

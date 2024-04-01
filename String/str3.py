@@ -1,9 +1,9 @@
 # format : 문자열의 형식 미리 정하고, 인자를 주어 문자열 완성
 
-s = "name : {}, number: : {}, soccer : {} "
+s = "name : {}, Number: : {}, soccer : {} "
 print(s.format("Ronaldo", 7, True))
 
-"name : {name}, number : {num}".format(name = "Jordan", num = 23)       # 한번에 표현 가능
+"name : {name}, Number : {num}".format(name = "Jordan", num = 23)       # 한번에 표현 가능
 
 # 정수 표현
 
