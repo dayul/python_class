@@ -6,7 +6,7 @@ print(0xD7A)    # 16진수
 
 print(type(0o130))  # <class 'int'>
 
-print(10e3)     # 100.0 * 10^3
+print(10e3)     # 10.0 * 10^3
 print(1.23456E2)
 
 a = 8 + 24j     # 복소수 표현
