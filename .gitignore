@@ -1,0 +1,6 @@
+.venv/
+
+Module/__pycache__/
+foods/__pycache__/
+foods/drinks/__pycache__/
+foods/snacks/__pycache__/
