@@ -15,6 +15,6 @@ f.write("append")
 f.close()
 
 # 한글 입력
-f = open("file.txt", "w", encoding="utf-8")
-f.write("안녕")
-f.close()
+# f = open("file.txt", "w", encoding="utf-8")
+# f.write("안녕")
+# f.close()
